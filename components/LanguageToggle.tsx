@@ -21,6 +21,7 @@ const LanguageToggle = () => {
   const languageOptions = [
     { value: 'ar', label: 'العربية' },
     { value: 'en', label: 'English' },
+    { value: 'es', label: 'Española' },
   ]
 
   const currentLanguage = i18n.language
